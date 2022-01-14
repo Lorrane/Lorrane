@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Lorrane Machado
 
 <!--
 **Lorrane/Lorrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
