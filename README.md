@@ -1,8 +1,9 @@
-### <h1> Hi there 👋 I'm Lorrane Machado </h1>
+### <h1> Hi there 👋 Welcome to my GitHub page </h1>
 
-There are somethings to know about me:
+<h3>About me:</h3>
 <ul>
   <li>I am System Analyst ✔</li>
+  <li>This page is a work in progress... 👷‍♂️</li>
 </ul>
 <!--
 **Lorrane/Lorrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
