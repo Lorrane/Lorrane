@@ -1,4 +1,4 @@
-### <h1> Hi there 👋 Welcome to my GitHub profile </h1>
+<center> <h1> Hi there 👋 Welcome to my GitHub profile </h1> </center>
 
 ## *About me:*
 <ul>
@@ -9,7 +9,7 @@
 </ul>
 
 ## *Projects i'm working at*
-*Real time Chat:* <a href="lorranecord-matrix.vercel.app">My Discord with matrix theme</a>
+*Real time Chat:* <a href="https://lorranecord-matrix.vercel.app">My Discord with matrix theme</a>
 
 *Movie Rating Site:* <a href="https://lorrane-dsmovie.netlify.app/">SDS - Movie</a>
 
