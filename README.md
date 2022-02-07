@@ -5,7 +5,7 @@
   <li>I am from Brazil (BR) ✔</li>
   <li>I am graduated as Java Developer since 2010 ✔</li>
   <li>I am working as Support Analyst ✔</li>
-  <li>I am studying Front End with ReactJs ✔</li>
+  <li>I am currently learning Front End with ReactJs ✔</li>
   <li>This page is a work in progress... 👷‍♂️</li>
 </ul>
 
