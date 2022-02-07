@@ -14,9 +14,6 @@
 *Movie Rating Site:* <a href="https://lorrane-dsmovie.netlify.app/">SDS - Movie</a>
 
 
-[![Lorrane Machado's github stats](https://github-readme-stats.vercel.app/api?username=lorrane&theme=dark&show_icons=true&count_private=true)](https://github.com/lorrane)
-
-
 ## *Estudying*
 <p>
  <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
@@ -27,6 +24,10 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> 
  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="60" height="60"/>  
 </p>
+
+
+## *Statistics*
+<img  align="left"  width="500px" src="https://github-readme-stats.vercel.app/api?username=lorrane&show_icons=true&theme=tokyonight"/>
 
 <!--
 **Lorrane/Lorrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
