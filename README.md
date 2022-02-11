@@ -5,7 +5,7 @@
 
 ## *About me:*
 <ul>
-  <li>I am from Brazil (BR) ✔</li>
+  <li>I am from Rio de Janeiro (RJ) - Brazil ✔</li>
   <li>I am graduated as Java Developer since 2010 ✔</li>
   <li>I am working as Support Analyst ✔</li>
   <li>I am currently stuadyin to be Full Stack Java ✔</li>
