@@ -1,4 +1,4 @@
- <h1 align="center"> Hi there 👋 Welcome to my GitHub profile </h1>
+ <h1 align="center"> Hi there 👋 Welcome to my profile page </h1>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorrane&label=Profile%20views&color=0e75b6&style=flat" alt="lorrane" /> </p>
 
 
@@ -16,7 +16,7 @@
 ## *Projects i'm working at*
 |Real Time chat |Movie Rating app |
 |-- |-- |
-|<a href="https://lorranecord-matrix.vercel.app"><img width="500px" src="https://github.com/Lorrane/Lorrane/blob/main/LorranecordImage.PNG" /></a> |<a href="https://lorrane-dsmovie.netlify.app"><img width="500px" src="https://github.com/Lorrane/Lorrane/blob/main/DsMovieImage.PNG" /></a>|
+|<a href="https://lorranecord-matrix.vercel.app" target="_blank"><img width="500px" src="https://github.com/Lorrane/Lorrane/blob/main/LorranecordImage.PNG" /></a> |<a href="https://lorrane-dsmovie.netlify.app" target="_blank"><img width="500px" src="https://github.com/Lorrane/Lorrane/blob/main/DsMovieImage.PNG" /></a>|
 
 <br>
 
