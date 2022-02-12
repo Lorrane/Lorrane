@@ -2,6 +2,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorrane&label=Profile%20views&color=0e75b6&style=flat" alt="lorrane" /> </p>
 Here is the Web design projects I am working and projects that I did while I was studying HTML, CSS, JavaScript, TypeScript, React and Node.
 
+<br>
 
 ## *About me:*
 <ul>
@@ -12,10 +13,12 @@ Here is the Web design projects I am working and projects that I did while I was
 
 <br>
 
-## *Projects i'm working at*
-|Real Time chat |Movie Rating app |
-|-- |-- |
-|<a href="https://lorranecord-matrix.vercel.app" target="_blank"><img width="500px" src="https://github.com/Lorrane/Lorrane/blob/main/LorranecordImage.PNG" /></a> |<a href="https://lorrane-dsmovie.netlify.app" target="_blank"><img width="500px" src="https://github.com/Lorrane/Lorrane/blob/main/DsMovieImage.PNG" /></a>|
+## *Statistics*
+<img  width="500px" src="https://github-readme-stats.vercel.app/api?username=lorrane&show_icons=true&theme=dark"/>
+
+<br>
+
+
 
 <br>
 
@@ -41,10 +44,22 @@ Here is the Web design projects I am working and projects that I did while I was
 
 <br>
 
-## *Statistics*
-<img  align="left"  width="500px" src="https://github-readme-stats.vercel.app/api?username=lorrane&show_icons=true&theme=dark"/>
+## *Projects i'm working at*
+
+
+### Movie Rating app 
+[![Image](https://github.com/Lorrane/Lorrane/blob/main/DsMovieImage.PNG "Lorranecord")](https://lorrane-dsmovie.netlify.app)
+<p align="right">
+deployed using <img src="https://www.netlify.com/v3/img/components/full-logo-dark.png" alt="Netlify" width="91" height="25"/> and <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="Heroku" width="90" />
+</p>
 
 <br>
+
+### Real Time chat
+[![Image](https://github.com/Lorrane/Lorrane/blob/main/LorranecordImage.PNG "Lorranecord")](https://lorranecord-matrix.vercel.app)
+<p align="right">
+deployed using <img src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" alt="Vercel" width="91"/>
+
 
 <!--
 **Lorrane/Lorrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
