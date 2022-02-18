@@ -1,20 +1,15 @@
- <h1 align="center"> Hi there 👋 Welcome to my profile page </h1>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorrane&label=Profile%20views&color=0e75b6&style=flat" alt="lorrane" /> </p>
-Here is the Web design projects I am working and projects that I did while I was studying HTML, CSS, JavaScript, TypeScript, React and Node.
-
-<br>
-
-## *About me:*
-<ul>
-  <li>I am from Rio de Janeiro (RJ) - Brazil ✔</li>
-  <li>I am graduated as System Analyst/Developer Java since 2010 ✔</li>
- <li>I am currently studying Web design ✔</li>
-</ul>
+ <h1 align="center"> Hi there 👋 Welcome to Lorrane's profile page </h1>
+ 
+ ![Contador de Visitas](https://komarev.com/ghpvc/?username=lorrane&label=Profile%20views&color=0e75b6&style=flat)
+ 
+My repositories are the Web design projects I am working on and projects that I made while I was studying Front end.
 
 <br>
 
 ## *Statistics*
-<img  width="500px" src="https://github-readme-stats.vercel.app/api?username=lorrane&show_icons=true&theme=dark"/>
+
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=lorrane&show_icons=true&theme=dark"/>
+<img width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorrane&layout=compact&langs_count=6&theme=dark" />
 
 <br>
 
@@ -22,12 +17,12 @@ Here is the Web design projects I am working and projects that I did while I was
 
 <br>
 
-## *Knowledge*
-<p>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+## Knowledge
+<p style="inline-block">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="70" /> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="70"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="60" height="60"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width="60" height="60"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git"  height="70"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="60" height="60"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="60" height="60"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
@@ -35,11 +30,11 @@ Here is the Web design projects I am working and projects that I did while I was
 </p>
 <br>
 
-## *Estudying*
+## Estudying
 <p>
  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="60" height="60"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" height="80"/>
 </p>
 
 <br>
@@ -50,7 +45,7 @@ Here is the Web design projects I am working and projects that I did while I was
 ### Movie Rating app 
 [![Image](https://github.com/Lorrane/Lorrane/blob/main/DsMovieImage.PNG "Lorranecord")](https://lorrane-dsmovie.netlify.app)
 <p align="right">
-deployed using <img src="https://www.netlify.com/v3/img/components/full-logo-dark.png" alt="Netlify" width="91" height="25"/> and <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="Heroku" width="90" />
+deployed using <img src="https://www.netlify.com/v3/img/components/full-logo-dark.png" alt="Netlify" width="91" height="25"/> and <img src="https://github.com/Lorrane/Lorrane/blob/main/heroku-logo.png" alt="Heroku" width="90" />
 </p>
 
 <br>
@@ -58,7 +53,7 @@ deployed using <img src="https://www.netlify.com/v3/img/components/full-logo-dar
 ### Real Time chat
 [![Image](https://github.com/Lorrane/Lorrane/blob/main/LorranecordImage.PNG "Lorranecord")](https://lorranecord-matrix.vercel.app)
 <p align="right">
-deployed using <img src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" alt="Vercel" width="91"/>
+deployed using <img src="https://github.com/Lorrane/Lorrane/blob/main/Vercel-logo-removebg-preview.png" alt="Vercel" width="91"/> and <img src="https://github.com/Lorrane/Lorrane/blob/main/supabase-logo.png" alt="Supabase" width="91"/>
 
 
 <!--
