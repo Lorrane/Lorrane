@@ -1,7 +1,8 @@
  <h1 align="center"> Hi there 👋 Welcome to Lorrane's profile page </h1>
  <p style=inline-block>
+ <a href="https://www.linkedin.com/in/lorrane-machado-12130aa6" target="_blank">
  <img alt="Contador de Visitas" src="https://komarev.com/ghpvc/?username=lorrane&label=Profile%20views&color=0e75b6&style=plastic" />
- <img alt="Linkedin" src="https://img.shields.io/badge/Lorrane%20Machado-blue?logo=LinkedIn&style=plastic&link=https://www.linkedin.com/in/lorrane-machado-12130aa6" />
+ <img alt="Linkedin" src="https://img.shields.io/badge/Lorrane%20Machado-blue?logo=LinkedIn&style=plastic" /></a>
  </p>
  
 My repositories are the Web design projects I am working on and projects that I made while I was studying Front end.
