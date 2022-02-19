@@ -1,6 +1,8 @@
  <h1 align="center"> Hi there 👋 Welcome to Lorrane's profile page </h1>
- 
- ![Contador de Visitas](https://komarev.com/ghpvc/?username=lorrane&label=Profile%20views&color=0e75b6&style=flat)
+ <p style=inline-block>
+ <img alt="Contador de Visitas" src="https://komarev.com/ghpvc/?username=lorrane&label=Profile%20views&color=0e75b6&style=plastic" />
+ <img alt="Linkedin" src="https://img.shields.io/badge/Lorrane%20Machado-blue?logo=LinkedIn&style=plastic&link=https://www.linkedin.com/in/lorrane-machado-12130aa6" />
+ </p>
  
 My repositories are the Web design projects I am working on and projects that I made while I was studying Front end.
 
@@ -56,17 +58,8 @@ deployed using <img src="https://www.netlify.com/v3/img/components/full-logo-dar
 deployed using <img src="https://github.com/Lorrane/Lorrane/blob/main/Vercel-logo-removebg-preview.png" alt="Vercel" width="91"/> and <img src="https://github.com/Lorrane/Lorrane/blob/main/supabase-logo.png" alt="Supabase" width="91"/>
 
 
-<!--
-**Lorrane/Lorrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- img.shields.io/badge/[label]-[message]-[color] opções: success(verde), yellow, orange, red, blue, inactive(cinza) 
+    ?style é utilizado para mudar o estilo da badge, sendo possível flat-square, plastic, for-the-badge
+    ?logo é utilizado para inserir um icon no inicio da badge as possibilidades são encontradas no https://simpleicons.org/
+    ?labelColor é utlizado para setar a cor do fundo do label aceita HEX, RGB, RGBA e css name colors
 -->
