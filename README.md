@@ -47,7 +47,7 @@ My repositories are the Web design projects I am working on and projects that I 
 ### Movie Rating app 
 [![Image](https://github.com/Lorrane/Lorrane/blob/main/DsMovieImage.PNG "Lorranecord")](https://lorrane-dsmovie.netlify.app)
 <p align="right">
-deployed using <img src="https://www.netlify.com/v3/img/components/full-logo-dark.png" alt="Netlify" width="91" height="25"/> and <img src="https://github.com/Lorrane/Lorrane/blob/main/heroku-logo.png" alt="Heroku" width="90" />
+deployed using <img src="https://img.shields.io/badge/Netlify-4D4D4D?logo=netlify&style=for-the-badge" alt="Netlify" /> and <img src="https://img.shields.io/badge/Heroku-4D4D4D?logo=heroku&style=for-the-badge" alt="Heroku" />
 </p>
 
 <br>
@@ -55,7 +55,8 @@ deployed using <img src="https://www.netlify.com/v3/img/components/full-logo-dar
 ### Real Time chat
 [![Image](https://github.com/Lorrane/Lorrane/blob/main/LorranecordImage.PNG "Lorranecord")](https://lorranecord-matrix.vercel.app)
 <p align="right">
-deployed using <img src="https://github.com/Lorrane/Lorrane/blob/main/Vercel-logo-removebg-preview.png" alt="Vercel" width="91"/> and <img src="https://github.com/Lorrane/Lorrane/blob/main/supabase-logo.png" alt="Supabase" width="91"/>
+deployed using <img src="https://img.shields.io/badge/Vercel-4D4D4D?logo=vercel&style=for-the-badge" alt="Vercel" /> and <img src="https://img.shields.io/badge/Supabase-4D4D4D?logo=supabase&style=for-the-badge" alt="Supabase" />
+ </p>
 
 
 <!-- img.shields.io/badge/[label]-[message]-[color] opções: success(verde), yellow, orange, red, blue, inactive(cinza) 
