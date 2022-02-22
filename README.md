@@ -46,7 +46,7 @@ My repositories are the Web design projects I am working on and projects that I 
 
 
 ### Movie Rating app 
-[![Image](https://github.com/Lorrane/Lorrane/blob/main/DsMovieImage.PNG "Lorranecord")](https://lorrane-dsmovie.netlify.app)
+[![Image](https://github.com/Lorrane/Lorrane/blob/main/ezgif-1-82a1138222.gif "DsMovie")](https://lorrane-dsmovie.netlify.app)
 <p align="right">
 deployed using <img src="https://img.shields.io/badge/Netlify-4D4D4D?logo=netlify&style=for-the-badge" alt="Netlify" /> and <img src="https://img.shields.io/badge/Heroku-4D4D4D?logo=heroku&style=for-the-badge" alt="Heroku" />
 </p>
@@ -54,7 +54,7 @@ deployed using <img src="https://img.shields.io/badge/Netlify-4D4D4D?logo=netlif
 <br>
 
 ### Real Time chat
-[![Image](https://github.com/Lorrane/Lorrane/blob/main/LorranecordImage.PNG "Lorranecord")](https://lorranecord-matrix.vercel.app)
+[![Image](https://github.com/Lorrane/Lorrane/blob/main/ezgif-1-646a98c1d1.gif "Lorranecord")](https://lorranecord-matrix.vercel.app)
 <p align="right">
 deployed using <img src="https://img.shields.io/badge/Vercel-4D4D4D?logo=vercel&style=for-the-badge" alt="Vercel" /> and <img src="https://img.shields.io/badge/Supabase-4D4D4D?logo=supabase&style=for-the-badge" alt="Supabase" />
  </p>
