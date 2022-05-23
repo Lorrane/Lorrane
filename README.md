@@ -44,32 +44,41 @@ My repositories are the Web design projects I am working on and projects that I 
 
 ## *Projects i'm working at*
 
-
 ### Movie Rating app 
-[![DS Movie gif](https://github.com/Lorrane/Lorrane/blob/main/ezgif-1-82a1138222.gif "DsMovie")](https://lorrane-dsmovie.netlify.app)
-
-deployed using ![Netlify](https://img.shields.io/badge/Netlify-4D4D4D?logo=netlify&style=plastic) and ![Heroku](https://img.shields.io/badge/Heroku-4D4D4D?logo=heroku&style=plastic)
-
-
-<br>
+This project is an app to rate movies, was developed using Spring and React Js framework, here is the links for [repository](https://github.com/Lorrane/sdsmovie) and [deploy](https://lorrane-dsmovie.netlify.app) hosted using ![Netlify](https://img.shields.io/badge/Netlify-4D4D4D?logo=netlify&style=plastic) and ![Heroku](https://img.shields.io/badge/Heroku-4D4D4D?logo=heroku&style=plastic)
 
 ### Real Time chat
-[![Lorranecord gif](https://github.com/Lorrane/Lorrane/blob/main/ezgif-1-646a98c1d1.gif "Lorranecord")](https://lorranecord-matrix.vercel.app)
-
-hosted using ![Vercel](https://img.shields.io/badge/Verce-4D4D4D?logo=vercel&style=plastic) and ![Supabase](https://img.shields.io/badge/Supabase-4D4D4D?logo=supabase&style=plastic)
-
-<br>
+This project is a Real Time chat with emoticons, here is the links for [repository](https://github.com/Lorrane/Lorranecord-Matrix) and [deploy](https://lorranecord-matrix.vercel.app) hosted using ![Vercel](https://img.shields.io/badge/Verce-4D4D4D?logo=vercel&style=plastic) and ![Supabase](https://img.shields.io/badge/Supabase-4D4D4D?logo=supabase&style=plastic)
 
 ### RA Landing page
 
 Landing page for a client [RA Repository](https://github.com/Lorrane/RA) hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
 
-<br>
+### Hangman
+
+A classic game builded using react, here are the links for [repository](https://github.com/Lorrane/forca) and [deploy not working yet]() hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
+
+### Library app
+
+App to organize a library using react, here are the links for [repository](http://github.com/Lorrane/Biblioteca-Organizator) and [deploy not working yet]() hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
+
+<br> 
 
 ## Projects Done recently
 
 ### Tour Web Page
+
 Here the repository of this work page [Falo Mermo Repository](https://github.com/Lorrane/falo-mermo) hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
+
+### Clone Netflix
+
+A clone of Netflix app using react, here are the links for [repository](https://github.com/Lorrane/CloneNetflix) and [deploy not working yet]() hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
+
+### Calculator
+
+A calculator made in Udemy React class, here are the links for [repository](htps://github.com/Lorrane/Calculator) and [deploy not working yet]() hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
+
+
 
 <!-- img.shields.io/badge/[label]-[message]-[color] opções: success(verde), yellow, orange, red, blue, inactive(cinza) 
     ?style é utilizado para mudar o estilo da badge, sendo possível flat-square, plastic, for-the-badge
