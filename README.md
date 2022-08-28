@@ -54,10 +54,6 @@ This project is a Real Time chat with emoticons, here is the links for [reposito
 
 Landing page for a client [RA Repository](https://github.com/Lorrane/RA) hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
 
-### Hangman
-
-A classic game builded using react, here are the links for [repository](https://github.com/Lorrane/forca) and [deploy](https://lorrane.github.io/forca) hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
-
 ### Library app
 
 App to organize a library using react, here are the links for [repository](http://github.com/Lorrane/Biblioteca-Organizator) and [deploy not working yet]() hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
@@ -77,6 +73,10 @@ A clone of Netflix app using react, here are the links for [repository](https://
 ### Calculator
 
 A calculator made in Udemy React class, here are the links for [repository](htps://github.com/Lorrane/Calculator) and [deploy not working yet]() hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
+
+### Hangman
+
+A classic game builded using react, here are the links for [repository](https://github.com/Lorrane/forca) and [deploy](https://lorrane.github.io/forca) hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
 
 
 
