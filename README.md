@@ -56,7 +56,7 @@ Landing page for a client [RA Repository](https://github.com/Lorrane/RA) hosted 
 
 ### Hangman
 
-A classic game builded using react, here are the links for [repository](https://github.com/Lorrane/forca) and [deploy not working yet]() hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
+A classic game builded using react, here are the links for [repository](https://github.com/Lorrane/forca) and [deploy](https://lorrane.github.io/forca) hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
 
 ### Library app
 
