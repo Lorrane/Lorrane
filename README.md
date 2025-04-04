@@ -1,57 +1,48 @@
- <h1 align="center"> Hi there 👋 Welcome to Lorrane's profile page </h1>
- <p style=inline-block>
- <a href="https://www.linkedin.com/in/lorrane-machado-12130aa6" target="_blank">
- <img alt="Contador de Visitas" src="https://komarev.com/ghpvc/?username=lorrane&label=Profile%20views&color=0e75b6&style=plastic" />
- <img alt="Linkedin" src="https://img.shields.io/badge/Lorrane%20Machado-blue?logo=LinkedIn&style=plastic" /></a>
- </p>
- 
-A collection of study projects and personal experiments using .NET Core, SQL, and React + Bootstrap. Documenting my progress as a developer!
+<h1 align="center">👋 Hello, I'm Lorrane Machado</h1>
+<h3 align="center">Full-Stack Developer | .NET & React Enthusiast</h3>
 
-<br>
-
-## *Statistics*
-
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=lorrane&show_icons=true&theme=dark"/>
-<img width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorrane&layout=compact&langs_count=6&theme=dark" />
-
-<br>
-
-
-
-<br>
-
-## Knowledge
-<p style="inline-block">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="70" /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="70"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="70"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="60" height="60"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git"  height="70"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" alt="Azure" width="70"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="60" height="60"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="60" height="60"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="60" height="60"/>
- <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/-->
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-</p>
-<br>
-
-## Estudying
-<p>
- <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" height="80"/>          
+<p align="center">
+  <a href="https://www.linkedin.com/in/lorrane-machado-12130aa6" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=lorrane&label=Profile%20views&color=0e75b6&style=for-the-badge">
 </p>
 
----
+<p align="center">
+  Documenting my journey through code with <strong>.NET Core</strong>, <strong>React</strong>, and <strong>cloud technologies</strong>.<br>
+  Passionate about building efficient solutions and learning new tech!
+</p>
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+### Backend & Databases
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+### Frontend & Tools
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+</div>
+
+<br>
 
 ## *Projects i'm working at*
 
 ### Movie Rating app 
 This project is an app to rate movies, was developed using Spring and React Js framework, here is the links for [repository](https://github.com/Lorrane/sdsmovie) and [deploy](https://lorrane-dsmovie.netlify.app) hosted using ![Netlify](https://img.shields.io/badge/Netlify-4D4D4D?logo=netlify&style=plastic) and ![Heroku](https://img.shields.io/badge/Heroku-4D4D4D?logo=heroku&style=plastic)
 
-### Real Time chat
-This project is a Real Time chat with emoticons, here is the links for [repository](https://github.com/Lorrane/Lorranecord-Matrix) and [deploy](https://lorranecord-matrix.vercel.app) hosted using ![Vercel](https://img.shields.io/badge/Verce-4D4D4D?logo=vercel&style=plastic) and ![Supabase](https://img.shields.io/badge/Supabase-4D4D4D?logo=supabase&style=plastic)
 
 ### RA Landing page
 
@@ -63,7 +54,7 @@ App to organize a library using react, here are the links for [repository](http:
 
 <br>
 
-# ✅ **Finished Projects**  
+## ✅ **Finished Projects**  
 *Completed projects that showcase my full-stack skills. Each one represents a problem solved with code!*  
 
 <br>
@@ -98,11 +89,40 @@ App to organize a library using react, here are the links for [repository](http:
 <br>
 
 ### **🎮 Hangman Game**  
-**Interactive portfolio** built with: 
+**Interactive portfolio** built with:  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?logo=styledcomponents&logoColor=white)  
 🔗 **Code:** [Hangman](https://github.com/Lorrane/forca)  
 🚀 **Live:** [Play Now](https://lorrane.github.io/forca) 
+
+<br>
+
+
+### **💬 Real Time Chat**  
+**Interactive portfolio** built with:  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)  
+🔗 **Code:** [Repository](https://github.com/Lorrane/Lorranecord-Matrix)  
+🌐 **Live:** [Join Chat](https://lorranecord-matrix.vercel.app)
+
+<br>
+
+## *Statistics*
+
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=lorrane&show_icons=true&theme=dark"/>
+<img width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorrane&layout=compact&langs_count=6&theme=dark" />
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
 
 
 <!-- img.shields.io/badge/[label]-[message]-[color] opções: success(verde), yellow, orange, red, blue, inactive(cinza) 
