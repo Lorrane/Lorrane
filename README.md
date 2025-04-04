@@ -61,51 +61,48 @@ Landing page for a client [RA Repository](https://github.com/Lorrane/RA) hosted 
 
 App to organize a library using react, here are the links for [repository](http://github.com/Lorrane/Biblioteca-Organizator) and [deploy not working yet]() hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
 
-<br> 
+<br>
 
-## ✅ **Finished Projects**  
+# ✅ **Finished Projects**  
 *Completed projects that showcase my full-stack skills. Each one represents a problem solved with code!*  
 
 <br>
 
 ### **🌐 Tour Web Page**  
-**Portfolio website** with responsive design  
-🛠️ **Tech Stack:**  
+**Interactive portfolio** built with:  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-🔗 **Code:** <a href="https://github.com/Lorrane/falo-mermo" target="_blank" rel="noopener noreferrer">Falo Mermo</a>  
-🚀 **Live:** ![GitHub Pages](https://img.shields.io/badge/Online-GitHub%20Pages-222?logo=githubpages)
+🔗 **Source Code:** [Repository](https://github.com/Lorrane/falo-mermo)  
+👁️ **Live Preview:** [View Project](https://lorrane.github.io/falo-mermo)
+
 
 <br>
 
 ### **🎬 Netflix Clone**  
-**UI Clone** with movie browsing interface  
-🛠️ **Tech Stack:**  
+**Interactive portfolio** built with:  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
 🔗 **Code:** [CloneNetflix](https://github.com/Lorrane/CloneNetflix)  
-🔧 **Status:** ![In Development](https://img.shields.io/badge/Status-In_Development-yellow)
+<!-- 👁️ **Live Preview:** [View Project](https://lorrane.github.io/RA) -->
 
 <br>
 
 ### **🧮 Calculator App**  
-**Interactive calculator** with modern UI  
-🛠️ **Tech Stack:**  
+**Interactive portfolio** built with:  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![CSS Modules](https://img.shields.io/badge/-CSS_Modules-000000?logo=cssmodules&logoColor=white)  
 🔗 **Code:** [Calculator](https://github.com/Lorrane/Calculator)  
-🔧 **Status:** ![In Development](https://img.shields.io/badge/Status-In_Development-yellow)
+<!-- 👁️ **Live Preview:** [View Project](https://lorrane.github.io/RA) -->
 
 <br>
 
 ### **🎮 Hangman Game**  
-**Classic word game** with React implementation  
-🛠️ **Tech Stack:**  
+**Interactive portfolio** built with: 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?logo=styledcomponents&logoColor=white)  
 🔗 **Code:** [Hangman](https://github.com/Lorrane/forca)  
-🚀 **Live:** [Play Now](https://lorrane.github.io/forca) ![GitHub Pages](https://img.shields.io/badge/Online-GitHub%20Pages-222?logo=githubpages)
+🚀 **Live:** [Play Now](https://lorrane.github.io/forca) 
 
 
 <!-- img.shields.io/badge/[label]-[message]-[color] opções: success(verde), yellow, orange, red, blue, inactive(cinza) 
