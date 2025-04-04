@@ -5,7 +5,7 @@
  <img alt="Linkedin" src="https://img.shields.io/badge/Lorrane%20Machado-blue?logo=LinkedIn&style=plastic" /></a>
  </p>
  
-My repositories contain projects I developed during my studies, as well as personal projects created to practice my knowledge of Java and .NET.
+A collection of study projects and personal experiments using .NET Core, SQL, and React + Bootstrap. Documenting my progress as a developer!
 
 <br>
 
