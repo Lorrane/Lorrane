@@ -33,24 +33,45 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
 </div>
 
 <br>
 
-## *Projects i'm working at*
+## 🚧 **Projects in Progress**  
+*Current works where I'm applying and expanding my development skills*
 
-### Movie Rating app 
-This project is an app to rate movies, was developed using Spring and React Js framework, here is the links for [repository](https://github.com/Lorrane/sdsmovie) and [deploy](https://lorrane-dsmovie.netlify.app) hosted using ![Netlify](https://img.shields.io/badge/Netlify-4D4D4D?logo=netlify&style=plastic) and ![Heroku](https://img.shields.io/badge/Heroku-4D4D4D?logo=heroku&style=plastic)
+<br>
 
+### **🎬 Movie Rating App**  
+**Full-stack application** for rating and reviewing films  
+🛠️ **Tech Stack:**  
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+🔗 **Code:** [sdsmovie](https://github.com/Lorrane/sdsmovie)  
+🚀 **Preview:** [Live Demo](https://lorrane-dsmovie.netlify.app)  
+![Netlify](https://img.shields.io/badge/Hosted_on-Netlify-00C7B7?logo=netlify&style=flat) + ![Heroku](https://img.shields.io/badge/Backend_on-Heroku-430098?logo=heroku&style=flat)
 
-### RA Landing page
+<br>
 
-Landing page for a client [RA Repository](https://github.com/Lorrane/RA) hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
+### **📚 Library Organizer**  
+**React application** for book collection management 
+🛠️ **Tech Stack:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+🔗 **Code:** [Biblioteca-Organizator](https://github.com/Lorrane/Biblioteca-Organizator)  
+🔧 **Status:** ![In Development](https://img.shields.io/badge/Deploy-Soon-blue)
 
-### Library app
+<br>
 
-App to organize a library using react, here are the links for [repository](http://github.com/Lorrane/Biblioteca-Organizator) and [deploy not working yet]() hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
+### **💰 Sales Control System**  
+**.NET MVC application** for sales management  
+🛠️ **Tech Stack:**  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+🔗 **Code:** [VendasWebMvc](https://github.com/Lorrane/VendasWebMvc)  
+🔧 **Status:** ![In Progress](https://img.shields.io/badge/Status-Active_Development-yellow)
 
 <br>
 
