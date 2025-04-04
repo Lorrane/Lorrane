@@ -40,12 +40,10 @@ A collection of study projects and personal experiments using .NET Core, SQL, an
 <p>
  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" height="80"/>
- 
-          
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" height="80"/>          
 </p>
 
-<br>
+---
 
 ## *Projects i'm working at*
 
@@ -65,24 +63,49 @@ App to organize a library using react, here are the links for [repository](http:
 
 <br> 
 
-## Projects Done recently
+## ✅ **Finished Projects**  
+*Completed projects that showcase my full-stack skills. Each one represents a problem solved with code!*  
 
-### Tour Web Page
+<br>
 
-Here the repository of this work page [Falo Mermo Repository](https://github.com/Lorrane/falo-mermo) hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
+### **🌐 Tour Web Page**  
+**Portfolio website** with responsive design  
+🛠️ **Tech Stack:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+🔗 **Code:** <a href="https://github.com/Lorrane/falo-mermo" target="_blank" rel="noopener noreferrer">Falo Mermo</a>  
+🚀 **Live:** ![GitHub Pages](https://img.shields.io/badge/Online-GitHub%20Pages-222?logo=githubpages)
 
-### Clone Netflix
+<br>
 
-A clone of Netflix app using react, here are the links for [repository](https://github.com/Lorrane/CloneNetflix) and [deploy not working yet]() hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
+### **🎬 Netflix Clone**  
+**UI Clone** with movie browsing interface  
+🛠️ **Tech Stack:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+🔗 **Code:** [CloneNetflix](https://github.com/Lorrane/CloneNetflix)  
+🔧 **Status:** ![In Development](https://img.shields.io/badge/Status-In_Development-yellow)
 
-### Calculator
+<br>
 
-A calculator made in Udemy React class, here are the links for [repository](htps://github.com/Lorrane/Calculator) and [deploy not working yet]() hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
+### **🧮 Calculator App**  
+**Interactive calculator** with modern UI  
+🛠️ **Tech Stack:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![CSS Modules](https://img.shields.io/badge/-CSS_Modules-000000?logo=cssmodules&logoColor=white)  
+🔗 **Code:** [Calculator](https://github.com/Lorrane/Calculator)  
+🔧 **Status:** ![In Development](https://img.shields.io/badge/Status-In_Development-yellow)
 
-### Hangman
+<br>
 
-A classic game builded using react, here are the links for [repository](https://github.com/Lorrane/forca) and [deploy](https://lorrane.github.io/forca) hosted using ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-4D4D4D?logo=github%20pages&style=plastic)
-
+### **🎮 Hangman Game**  
+**Classic word game** with React implementation  
+🛠️ **Tech Stack:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?logo=styledcomponents&logoColor=white)  
+🔗 **Code:** [Hangman](https://github.com/Lorrane/forca)  
+🚀 **Live:** [Play Now](https://lorrane.github.io/forca) ![GitHub Pages](https://img.shields.io/badge/Online-GitHub%20Pages-222?logo=githubpages)
 
 
 <!-- img.shields.io/badge/[label]-[message]-[color] opções: success(verde), yellow, orange, red, blue, inactive(cinza) 
